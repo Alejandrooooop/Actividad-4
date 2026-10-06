@@ -1,4 +1,4 @@
-# Calculadora simple en Python
+// Calculadora simple en Python
 
 
 def sumar(a, b):
